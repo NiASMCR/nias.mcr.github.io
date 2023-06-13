@@ -6,13 +6,12 @@
 (アカウントへのフォローをお願いします。スパム対策でフォロー外は連絡できなくしています)
 
 ## SNS  
-
 - Twitter  
-[アカウントのリンク](https://twitter.com/nias_mcr)  
+[@nias_mcr](https://twitter.com/nias_mcr)  
 - Youtube  
-https://www.youtube.com/channel/UCPb_9_xRmYvkob2SgeWoP0g
+[youtubeチャンネル](https://www.youtube.com/channel/UCPb_9_xRmYvkob2SgeWoP0g)  
 - ニコニコ動画  
-[ニコニコ動画のユーザーページ](https://www.nicovideo.jp/user/86514801)
+[ユーザーページ](https://www.nicovideo.jp/user/86514801)
 
 ## Githab(設計図共有サイト)  
 
@@ -22,7 +21,7 @@ https://www.youtube.com/channel/UCPb_9_xRmYvkob2SgeWoP0g
 [リンク]()  
 
 ## 過去の活動  
-
+高校生の大会(JMCR)の県・地区大会同一レイアウトでの実施  
 ‐ 造大祭2021 記録会  
 ‐ 造大祭2022 記録会・技術交流会  
 https://sites.google.com/campus.nias.ac.jp/nias-mcr-2022/%E3%83%9B%E3%83%BC%E3%83%A0  
