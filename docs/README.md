@@ -6,17 +6,12 @@
 (アカウントへのフォローをお願いします。スパム対策でフォロー外は連絡できなくしています)
 
 ## SNS  
-- Twitter  
-[@nias_mcr](https://twitter.com/nias_mcr)  
-- Youtube  
-[youtubeチャンネル](https://www.youtube.com/channel/UCPb_9_xRmYvkob2SgeWoP0g)  
-- ニコニコ動画  
-[ユーザーページ](https://www.nicovideo.jp/user/86514801)
+- Twitter[@nias_mcr](https://twitter.com/nias_mcr)  
+- Youtube[youtubeチャンネル](https://www.youtube.com/channel/UCPb_9_xRmYvkob2SgeWoP0g)  
+- ニコニコ動画[ユーザーページ](https://www.nicovideo.jp/user/86514801)
 
 ## Githab(設計図共有サイト)  
-
-‐ Githubアカウント  
-[アカウントページ](https://github.com/NiASMCR)  
+‐ Githubアカウント[アカウントページ](https://github.com/NiASMCR)  
 
 ! 水中ロボコンのジュニア部門に出場する中・高校生に向けたデータ(投稿予定)[リンク]()  
 
