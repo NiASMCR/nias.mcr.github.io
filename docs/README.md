@@ -16,15 +16,13 @@
 ## Githab(設計図共有サイト)  
 
 ‐ Githubアカウント  
-https://github.com/NiASMCR
+[アカウントページ](https://github.com/NiASMCR)  
 
-! 水中ロボコンのジュニア部門に出場する中・高校生に向けたデータ(投稿予定)  
-[リンク]()  
+! 水中ロボコンのジュニア部門に出場する中・高校生に向けたデータ(投稿予定)[リンク]()  
 
 ## 過去の活動  
 高校生の大会(JMCR)の県・地区大会同一レイアウトでの実施  
 ‐ 造大祭2021 記録会  
-‐ 造大祭2022 記録会・技術交流会  
-https://sites.google.com/campus.nias.ac.jp/nias-mcr-2022/%E3%83%9B%E3%83%BC%E3%83%A0  
+‐ 造大祭2022 記録会・技術交流会 [ホームページのリンク](https://sites.google.com/campus.nias.ac.jp/nias-mcr-2022/%E3%83%9B%E3%83%BC%E3%83%A0)  
 
 各種データの共有、情報の共有を目指し、作成中です。
