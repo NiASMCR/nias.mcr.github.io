@@ -18,7 +18,7 @@ https://www.youtube.com/channel/UCPb_9_xRmYvkob2SgeWoP0g
 
 ‐ https://github.com/NiASMCR
 
-!水中ロボコンのジュニア部門に出場する中・高校生に向けたデータ(投稿予定)
+!水中ロボコンのジュニア部門に出場する中・高校生に向けたデータ(投稿予定)  
 [リンク]()  
 
 ## 過去の活動  
