@@ -8,6 +8,8 @@ fig.1 人工網膜センサーを使用したマイコンカー(This CG make of 
   
 連絡についてはTwitterのDMへ  
 (アカウントへのフォローをお願いします。スパム対策でフォロー外は連絡できなくしています)
+## 作成したマイコンカーが動くところ
+! [人工網膜センサーを使用したカメラマイコンカーの走行動画](https://youtu.be/YGCIjlACJ_s)  
   
 ## SNS  
 - Twitter：[@nias_mcr](https://twitter.com/nias_mcr)  
