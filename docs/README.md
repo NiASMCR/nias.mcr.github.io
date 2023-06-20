@@ -10,6 +10,7 @@ fig.1 人工網膜センサーを使用したマイコンカー(This CG make of 
 連絡についてはTwitterのDMへ  
 (アカウントへのフォローをお願いします。スパム対策でフォロー外は連絡できなくしています)
 ## 作成したマイコンカーが動くところ(youtubeに飛びます)
+人工網膜センサーを使用したカメラマイコンカーの走行
 [![人工網膜センサーを用いたカメラマイコンカーの走行](https://img.youtube.com/vi/YGCIjlACJ_s/0.jpg)](https://www.youtube.com/watch?v=YGCIjlACJ_s)
   
 ## SNS  
@@ -17,7 +18,7 @@ fig.1 人工網膜センサーを使用したマイコンカー(This CG make of 
 - Youtube：[youtubeチャンネル](https://www.youtube.com/channel/UCPb_9_xRmYvkob2SgeWoP0g)  
 - ニコニコ動画：[ユーザーページ](https://www.nicovideo.jp/user/86514801)
 
-## Githab(設計図共有サイト)  
+## Github(設計図共有サイト)  
 - Githubアカウント：[アカウントページ](https://github.com/NiASMCR)    
 
 - 公開に向け準備中のもの  
@@ -44,7 +45,7 @@ fig.2 公開に向けて開発中のマイコンカー
 ## メンバーの過去の表彰歴  
 - 2020  
   全日本マイコンカーラリー2020  
-    GR-Peach部門 GR-Peach賞  
+    GR-Peach部門 GR-Peach賞(GR-Peach部門で最もタイムが早かった)  
     Advanced Class車体部門 8位+特別賞  
 - 2019  
   第5回福岡県マイコンカーラリー技術交流大会　兼　西工大杯マイコンカーラリー2019西日本大会  
