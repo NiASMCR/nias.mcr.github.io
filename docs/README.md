@@ -27,10 +27,15 @@ fig.1 人工網膜センサーを使用したマイコンカー(This CG make of 
 ![開発中のマイコンカー](image/MCU_CAR.png)  
 fig.2 公開に向けて開発中のマイコンカー  
 
+## 支援を受けたことのある団体
+- ミスミ学生ものづくり支援
+- 大学の学生活動支援(NiASプロジェクト)
+
 ## 過去の活動  
 ### 高校生の大会(JMCR)の県・地区大会同一レイアウトでの実施  
 - 造大祭2021 記録会  
 - 造大祭2022 記録会・技術交流会：[ホームページのリンク](https://sites.google.com/campus.nias.ac.jp/nias-mcr-2022/%E3%83%9B%E3%83%BC%E3%83%A0)
+- 造大祭2023 ドローン大会(フィールド作成支援・運営スタッフ):[ホームページのリンク](https://sites.google.com/campus.nias.ac.jp/nias-mcr-2022/%E3%83%9B%E3%83%BC%E3%83%A0](https://sites.google.com/campus.nias.ac.jp/zoudaisai2023drone)
   
 ### 応募した企画
 - Autodesk社#みんなで作るFusion360 PVプロジェクト 応募→採用(0:14あたりに掲載)  
