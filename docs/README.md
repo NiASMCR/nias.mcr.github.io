@@ -14,7 +14,7 @@ fig.1 人工網膜センサーを使用したマイコンカー(This CG make of 
 [![人工網膜センサーを用いたカメラマイコンカーの走行](https://img.youtube.com/vi/YGCIjlACJ_s/0.jpg)](https://www.youtube.com/watch?v=YGCIjlACJ_s)
   
 ## SNS  
-- Twitter：[@nias_mcr](https://twitter.com/nias_mcr)  
+- X(旧Twitter)：[@nias_mcr](https://twitter.com/nias_mcr)  
 - Youtube：[youtubeチャンネル](https://www.youtube.com/channel/UCPb_9_xRmYvkob2SgeWoP0g)  
 - ニコニコ動画：[ユーザーページ](https://www.nicovideo.jp/user/86514801)
 
